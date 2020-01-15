@@ -1,4 +1,4 @@
-# .htaccess is required before running this application
+# The .htaccess is required before running this application
 
 So сreate and fill it with the following content:
 
