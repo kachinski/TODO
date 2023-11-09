@@ -1,6 +1,6 @@
-# The .htaccess is required before running this application
+# You will need to create .htaccess before running this application
 
-So сreate and fill it with the following content:
+Fill it with the following content:
 
 ```
 RewriteEngine On
